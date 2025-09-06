@@ -47,3 +47,13 @@ The project demonstrates how readily available components and the Arduino platfo
 Arduino-Oscilloscope/  
 ├── code/                
 └── README.md        
+```
+## 🔹 Author  
+👤 **Priyanshu Singh**  
+- 🎓 IIT Ropar | Mechanical Engineering  
+- 🔧 Skills: Abaqus, SolidWorks, OpenFOAM, Fusion, Ansys, Arduino IDE, Linux  
+- 📧 Email: priyanshusingh04112003@gmail.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/priyanshu-singh-a47033265) | [YouTube](https://youtube.com/@theunfilteredguyy)  
+
+---
+⭐ If you like this project, don’t forget to **star the repo**!
